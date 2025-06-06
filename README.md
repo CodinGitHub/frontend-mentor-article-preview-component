@@ -1,12 +1,25 @@
-# React + Vite
+# Frontend Mentor - Article preview component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Design preview for the Article preview component coding challenge](./src/assets/design/desktop-preview.jpg)
 
-## Expanding the ESLint configuration
+## Technologies used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- REACT
+- TAILWIND
+
+## Author
+
+David Ruiz - Frontend Developer
+- [Github](https://github.com/Davichobits)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Davichobits) 
+- [Linkedin](https://www.linkedin.com/in/davidirc/)
+- [YouTube](https://www.youtube.com/CodingTube)
+- [codingtube.dev](https://codingtube.dev/)
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=davichobits/davichobits@github)](https://gitads.dev/v1/ad-track?source=davichobits/davichobits@github)
+
+
